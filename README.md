@@ -3,7 +3,7 @@ Gradient-Boosted Trees (GBTs) are a type of ensemble classification algorithm th
 
 Learn more about this implementation [from the MLlib Documentation][4]
 
-![Stream](Add Link to Stream)
+![Stream](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Gradient_Boosted_Trees_with_MLlib/master/screenshots/stream.png)
 
 
 ---
