@@ -27,7 +27,7 @@ If using v18.0 of SPSS Modeler, navigate to the options.cfg file (Windows defaul
   -   The italicized path should be replaced with the path to your python.exe from your Anaconda installation.
 
 #### Extension Hub Installation
-1. Go to the Extension menu Modeler and click "Extension Hub"
+1. Go to the Extension menu in Modeler and click "Extension Hub"
 2. In the search bar, type the name of this extension and press enter
 3. Check the box next to "Get extension" and click OK at the bottom of the screen
 4. The extension will install and a pop-up will show what palette it was installed to
